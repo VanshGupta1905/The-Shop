@@ -1,0 +1,44 @@
+[
+  {
+    "id": "89495fda-52c8-4ed8-9f99-3d26fc71ce44",
+    "name": "Nike",
+    "price": "50",
+    "ImageUrl": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8c2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "Description": "Awesome Shoes"
+  },
+  {
+    "id": "0c5b8929-0576-486f-82a5-6d865a125e9a",
+    "name": "Reebok",
+    "price": "23",
+    "ImageUrl": "https://images.unsplash.com/photo-1549298916-b41d501d3772?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8NXx8c2hvZXN8ZW58MHx8MHx8&auto=format&fit=crop&w=500&q=60",
+    "Description": ""
+  },
+  {
+    "id": "a87d0878-abbb-4718-8e8d-fdd03d7dfbe2",
+    "name": "Adidas",
+    "price": "20",
+    "ImageUrl": "https://images.unsplash.com/photo-1460353581641-37baddab0fa2?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTB8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "Description": ""
+  },
+  {
+    "id": "856a01a4-722a-42c5-83a0-3c8d84aeebb8",
+    "name": "Nike (Presto)",
+    "price": "32",
+    "ImageUrl": "https://images.unsplash.com/photo-1543508282-6319a3e2621f?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTF8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "Description": ""
+  },
+  {
+    "id": "d12e914d-6875-4dce-9855-1625754a5773",
+    "name": "Adidas",
+    "price": "20",
+    "ImageUrl": "https://images.unsplash.com/photo-1516478177764-9fe5bd7e9717?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MzR8fHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "Description": ""
+  },
+  {
+    "id": "e1d19af3-2dbd-4392-961b-fba2fbad4cd2",
+    "name": "Reebok",
+    "price": "20",
+    "ImageUrl": "https://images.unsplash.com/photo-1595341888016-a392ef81b7de?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MTZ8fīHNob2VzfGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+    "Description": ""
+  }
+]

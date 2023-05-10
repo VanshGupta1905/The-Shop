@@ -1,0 +1,66 @@
+<nav class="navbar navbar-expand-lg navbar-light bg-light">
+  <div class="container-fluid">
+    <a class="navbar-brand" href="/">The Shop</a>
+    <button
+      class="navbar-toggler"
+      type="button"
+      data-bs-toggle="collapse"
+      data-bs-target="#navbarScroll"
+      aria-controls="navbarScroll"
+      aria-expanded="false"
+      aria-label="Toggle navigation"
+    >
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarScroll">
+      <ul
+        class="navbar-nav me-auto my-2 my-lg-0 navbar-nav-scroll"
+        style="--bs-scroll-height: 100px;"
+      >      
+      </ul>
+      <form class="d-flex position-absolute start-50 translate-middle-x" style="margin-bottom: auto;" >
+        <input
+          class="form-control me-2"
+          type="search"
+          placeholder="Search"
+          aria-label="Search"
+        />
+        <button class="btn btn-outline-success" type="submit">Search</button>
+      </form>
+      <div class="dropdown top-0 end-0" style="padding-left: 20px; padding-right: 60px; " >
+          <button
+            class="btn btn-light dropdown-toggle"
+            type="button"
+            id="dropdownMenuButton2"
+            data-bs-toggle="dropdown"
+            aria-expanded="false"
+          >
+            Menu
+          </button>
+          <ul
+            class="dropdown-menu dropdown-menu-light"
+            aria-labelledby="dropdownMenuButton2"
+          >
+
+           <li class="nav-item">
+          <a class="dropdown-item" href="/">The Shop</a>
+        </li>
+
+            <li class="nav-item">
+          <a class="dropdown-item" href="/Show-Cart">My Cart</a>
+        </li>
+             <li class="nav-item">
+          <a class="dropdown-item" aria-current="page" href="/admin">Admin</a>
+        </li>
+        <li class="nav-item">
+          <a class="dropdown-item" aria-current="page" href="/admin/addProduct">Add Product</a>
+        </li>
+
+         
+            <li><hr class="dropdown-divider" /></li>
+            <li><a class="dropdown-item" href="#">My Profile </a></li>
+          </ul>
+        </div>
+    </div>
+  </div>
+</nav>

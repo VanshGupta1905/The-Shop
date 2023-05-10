@@ -1,0 +1,26 @@
+.crouselImages{
+    height: 630px;    
+}
+.myForm{
+    width: 1200px;
+    margin-left: 100px;
+    margin-top: 100px;
+    font-weight: 500;
+}
+.flex-container{
+    display: flex;
+    flex-wrap:wrap;
+    flex-direction: row;
+    justify-content: space-around;
+}
+img{
+    height:333px;
+    width: 490px;
+}
+.myBtn{
+    position: fixed;
+    bottom: 0;
+}
+.table{
+    width: 1000px;
+}
