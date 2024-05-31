@@ -1,5 +1,5 @@
 # The Shop
-### : Streamlining Product Management for Your Online Store
+### Streamlining Product Management for Your Online Store
 Empowering Shop Owners with a User-Friendly Interface to Effortlessly Manage Product Inventory
 
 The Shop is a powerful tool designed to simplify the often complex task of managing product listings on your website.  Say goodbye to manual database updates and hello to a streamlined, intuitive user interface that puts you in control.
