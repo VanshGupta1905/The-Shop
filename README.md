@@ -34,3 +34,9 @@ Sessions & Cookies:
 Express-Session: Middleware for managing user sessions and authentication.
 ![5](https://github.com/VanshGupta1905/The-Shop/assets/97848559/798dfc09-9b3c-476d-a6b8-5c827ab0ba68)
 
+![2](https://github.com/VanshGupta1905/The-Shop/assets/97848559/b4fe44d8-3d66-451f-a3cc-53efa3333e66)
+![4](https://github.com/VanshGupta1905/The-Shop/assets/97848559/7e608653-2371-4311-9233-7cabd5281f75)
+![1](https://github.com/VanshGupta1905/The-Shop/assets/97848559/16b14455-3a37-4173-b11d-b8423fd2d733)
+![12](https://github.com/VanshGupta1905/The-Shop/assets/97848559/f66cfae2-de7a-471a-8370-d893d7c70051)
+![6](https://github.com/VanshGupta1905/The-Shop/assets/97848559/ecb9d46a-6ae7-45ff-a939-fe3d18a882b5)
+![12](https://github.com/VanshGupta1905/The-Shop/assets/97848559/6cfb59f0-dfbc-44ab-b209-e92ce0c613c9)
