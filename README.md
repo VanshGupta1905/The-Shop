@@ -32,4 +32,5 @@ Database:
 MySQL: Reliable and widely-used relational database for storing product data.
 Sessions & Cookies:
 Express-Session: Middleware for managing user sessions and authentication.
+![5](https://github.com/VanshGupta1905/The-Shop/assets/97848559/798dfc09-9b3c-476d-a6b8-5c827ab0ba68)
 
