@@ -10,7 +10,7 @@ The Shop is a powerful tool designed to simplify the often complex task of manag
 Easily add, remove, or update product details directly through the app's interface.
 Database Integration: The Shop seamlessly handles all interactions with your MySQL database through Sequelize, eliminating the need for direct SQL queries.
 Simple UI: Clean, intuitive design built with Bootstrap, ensuring a responsive and easy-to-use experience.
-Customizable: (Coming Soon!) Adapt The Shop's appearance to match your website's branding.
+Customizable: Adapt The Shop's appearance to match your website's branding.
 Use Cases
 
 # Small Business Owners: 
